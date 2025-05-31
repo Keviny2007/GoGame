@@ -29,8 +29,8 @@ This project implements a playable version of the game **Go** using Python and P
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/Keviny2007/GoGame.git
+   cd GoGame
    ```
 
 2. Install dependencies:
